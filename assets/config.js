@@ -11,7 +11,7 @@ const CONFIG = {
     project: {
         name: 'JTools-OCalc',
         repo: 'jtools-ocalc',
-        version: '1.2.5',
+        version: '1.0.0',
         license: 'GPL-3.0'
     },
     urls: {
